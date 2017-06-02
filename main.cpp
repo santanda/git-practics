@@ -5,5 +5,7 @@ int main()
 {
 	cout << "hollo worald" << endl;
 
+	cout << "こんにちは" << endl;
+
 	return 0;
 }
